@@ -1,0 +1,102 @@
+body {
+
+     background-color: #25252A;
+     font-family: 'Zilla Slab', serif;
+  
+}
+
+h1 {
+    margin-top: 5%;
+    text-align: center;
+    color: #127DB8;
+    font-size: 55pt;
+    text-shadow: 2px 2px #D8A725;
+    word-spacing: 15px;
+    margin-right: 6%;
+}
+
+#homeH1 {
+    margin-top: 5%;
+    text-align: center;
+    color: #D8A725;
+    font-size: 60pt;
+    text-shadow: 2px 2px #127DB8;
+    word-spacing: 15px;
+    margin-left: 5%;
+}
+
+h3 {
+    margin-top: 5%;
+    text-align: center;
+    color: #D8A725;
+    font-size: 45pt;
+    text-shadow: 2px 2px #127DB8;
+    word-spacing: 15px;
+}
+#back {
+    float: left;
+    height: 70px;
+    width: 70px;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+p{
+    text-align: center;
+}
+button {
+    margin-top: 8%;
+    margin-bottom: 8%;
+    height: 3%;
+    width: 48%;
+    background-color: #127DB8;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px #D8A725;
+    font-size: 20pt;
+}
+
+#firstFloorDiv img {
+    height: 35%;
+    width: 80%;
+}
+#logoDiv img {
+    height: 30%;
+    width: 40%;
+}
+#HomeLogoDiv img {
+    height: 70%;
+    width: 87%;
+    margin-top: 10%;
+
+}
+#floydPic {
+    height: 13%;
+    width: 20%;
+}
+
+#steps {
+    height: 40%;
+    width: 5%;
+    margin-left: 2%;
+}
+table {
+    
+    text-align: center;
+    color: white;
+}
+table .absorbing-column {
+    width: 100%;
+}
+
+th {
+    font-size: 20pt;
+    color: #127DB8;
+    padding: 2%;
+}
+
+td {
+    padding: 2%;
+    font-size: 15pt;
+    color: #D8A725;
+    white-space: nowrap;
+}
+
